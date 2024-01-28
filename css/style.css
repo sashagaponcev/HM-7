@@ -1,0 +1,11 @@
+:root {
+    --red-color: #ff0000
+}
+
+a[href^="https"] {
+    color: red;
+}
+
+ul+p {
+    font-size: 24px;
+}
